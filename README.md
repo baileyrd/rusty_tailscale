@@ -1,5 +1,7 @@
 # tailscale-rs (rusty_tail)
 
+> **Archived — merged into [Rusty Mill](https://github.com/Rusty-Mill/rusty_mill).** This crate now lives at [`crates/rusty_tailscale`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_tailscale) in the Rusty Mill monorepo, which is where active development, issues, and pull requests happen now. This standalone repo is kept for historical reference only.
+
 A sovereign, pure-Rust Tailscale client: control-plane client (ts2021),
 WireGuard data plane, NAT traversal, and an embeddable library — no Go
 binaries at runtime. Targets [Headscale](https://github.com/juanfont/headscale)
